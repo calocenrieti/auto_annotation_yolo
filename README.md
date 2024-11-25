@@ -1,0 +1,1 @@
+ultralytics YOLOを利用して、対象フォルダの画像に対するアノテーションファイルをYOLO形式 BBOXで作成（Windows copilot作成）
